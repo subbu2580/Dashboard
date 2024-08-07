@@ -1,0 +1,15 @@
+.dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.charts-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.chart-item {
+  flex: 1;
+  min-width: 0;
+}
